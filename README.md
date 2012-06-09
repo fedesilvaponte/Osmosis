@@ -3,8 +3,11 @@
 Osmosis is a Sublime Text 2 Color Scheme inspired on Boris Popoff's theme for aptana called "GreenChaud".
 
 ## Screenshots:
+CSS
 ![Osmosis CSS](http://static.fedesilva.com/Osmosis/osmosis-css.jpg)
+HTML
 ![Osmosis HTML](http://static.fedesilva.com/Osmosis/osmosis-html.jpg)
+PHP
 ![Osmosis PHP](http://static.fedesilva.com/Osmosis/osmosis-php.jpg)
 
 ## Installation
