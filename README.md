@@ -1,6 +1,6 @@
-# Osmosis Sublime Text 2 Color Scheme
+# Osmosis Sublime Text 2/3 Color Scheme
 
-Osmosis is a Sublime Text 2 Color Scheme inspired on Boris Popoff's theme for aptana called "GreenChaud".
+Osmosis is a Sublime Text 2/3 Color Scheme inspired on Boris Popoff's theme for aptana called "GreenChaud".
 
 ## Screenshots:
 CSS
