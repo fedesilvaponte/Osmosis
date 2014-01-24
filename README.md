@@ -17,9 +17,20 @@ PHP
 
 ## Installation
 
-git clone https://github.com/fedesilvaponte/Osmosis.git
+Clone the repository to the sublime text config folder
 
-Copy the folder to .config/sublime-text-2/Packages/Color Scheme - Default/
+Go to the location of sublime text 3 packages and configuration
+(you can check where this is located by opening the command pallete in sublime and searching browse packages)
+
+Linux:
+
+.config/sublime-text-3/Packages/Color\ Scheme\ -\ Default/
+
+Mac OSX: 
+
+~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
+
+git clone https://github.com/fedesilvaponte/Osmosis.git
 
 Hope you like it!
 
